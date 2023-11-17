@@ -1,10 +1,18 @@
 # Effectify [![GitHub release (with filter)](https://img.shields.io/github/v/release/Jzmoore27/Effectify)](https://github.com/Jzmoore27/Effectify/releases/latest)
 
 ### [Download Latest](https://github.com/Jzmoore27/Effectify/releases/latest)
+### [All Versions](https://github.com/Jzmoore27/Effectify/releases)
 
 ### Contents
+ * **[About Effectify](#about-effectify)**
  * **[Installation Guide](#installation-guide)**
  * **[Presets](#presets)**
+ * **[Commands](#comands)**
+
+## About Effectify
+Effectify is a Minecraft datapack that applies random effects to people from an allowed list.<br>
+This datapack was created by Hardcorishmc for the Legends SMP.<br>
+It includes 19 different effects, random selection, presets, and more to provide a polished experience.<br>
 
 ## Installation Guide
 ### **FOR LATEST VERSION ONLY**<br>
