@@ -49,4 +49,4 @@ replacing ```<player >``` with the player's username and choosing effect slot A 
 Players can have a maximum of two effects at one time, one in slot A, the other in slot B.<br>
 Example:<br>
 ```/execute as CoolGuy4500 run function e:players/effectb```<br>
-**NOTE: These commands are not needed for the datapack to work, only to set,reset effects.**
+**NOTE: These commands are not needed for the datapack to work, only to set/reset effects.**
