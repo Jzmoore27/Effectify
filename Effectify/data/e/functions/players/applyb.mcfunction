@@ -1,0 +1,1 @@
+scoreboard players operation @s effectb = @s rand
