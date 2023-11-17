@@ -16,7 +16,7 @@ It includes 19 different effects, random selection, presets, and more to provide
 
 ## Installation Guide
 ### **FOR LATEST VERSION ONLY**<br>
-Navigate to the [**Latest Version**](https://github.com/Jzmoore27/Effectify/releases/lates).<br>
+Navigate to the [**Latest Version**](https://github.com/Jzmoore27/Effectify/releases/latest).<br>
 Downoad **"Effectify.zip"** from the release assets<br>
 
  * **_If you are planning on using presets, Stop here and see [**Presets**](#presets) for more information_**<br>
