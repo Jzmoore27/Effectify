@@ -7,7 +7,7 @@
  * **[About Effectify](#about-effectify)**
  * **[Installation Guide](#installation-guide)**
  * **[Presets](#presets)**
- * **[Commands](#comands)**
+ * **[Commands](#commands)**
 
 ## About Effectify
 Effectify is a Minecraft datapack that applies random effects to people from an allowed list.<br>
@@ -37,3 +37,14 @@ CoolGuy4500:mining_fatigue
 ```
 Run the Executable located in the root folder to apply your changes.
 Once finished, add the datapack to the datapacks folder of your Minecraft world.
+
+## Commands
+Effectify contains many functions for datapack usage. The only ones to know about are:<br>
+```/function e:players/effecta```
+```/function e:players/effectb```
+These commands set/reset player effects to random ones.<br>
+Tho use these commands, simply run ```/execute as <player> run function </function e:players/effecta|/function e:players/effectb>```, replacing ```<player >``` with the player's username and choosing effect slot A or B.<br>
+Players can have a maximum of two effects at one time, one in slot A, the other in slot B.<br>
+Example:<br>
+```/execute as CoolGuy4500 run function e:players/effectb```
+**NOTE: These commands are not needed for the datapack to work, only to set,reset effects.**
