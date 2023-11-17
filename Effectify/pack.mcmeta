@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 18,
-    "description": "Legends SMP effect applier"
+    "description": "Effectify is a Minecraft datapack that applies random effects to people from an allowed list."
   }
 }
