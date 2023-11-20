@@ -55,8 +55,8 @@ Example:
 ### Pause Command
 ```/function e:players/pause```<br>
 This command will clear a player's effects for five minutes.<br>
-To run this command, type<br>
-```/execute as <player> run function </function e:players/applya|/function e:players/applyb>```,<br>
+To run this command, type:<br>
+```/execute as <player> run function function e:players/pause>```,<br>
 replacing ```<player>``` with the player's username.<br>
 Example:
 ```
