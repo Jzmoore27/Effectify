@@ -1,19 +1,19 @@
-effect give @a[scores={effecta=1}] absorption infinite 1
-effect give @a[scores={effecta=2}] conduit_power infinite 1
-effect give @a[scores={effecta=3}] dolphins_grace infinite 1
-effect give @a[scores={effecta=4}] fire_resistance infinite 1
-effect give @a[scores={effecta=5}] haste infinite 1
-effect give @a[scores={effecta=6}] health_boost infinite 1
-effect give @a[scores={effecta=7}] hero_of_the_village infinite 1
-effect give @a[scores={effecta=8}] hunger infinite 1
-effect give @a[scores={effecta=9}] invisibility infinite 1
-effect give @a[scores={effecta=10}] jump_boost infinite 1
-effect give @a[scores={effecta=11}] mining_fatigue infinite 1
-effect give @a[scores={effecta=12}] night_vision infinite 1
-effect give @a[scores={effecta=13}] resistance infinite 1
-effect give @a[scores={effecta=14}] slow_falling infinite 1
-effect give @a[scores={effecta=15}] slowness infinite 1
-effect give @a[scores={effecta=16}] speed infinite 1
-effect give @a[scores={effecta=17}] strength infinite 1
-effect give @a[scores={effecta=18}] water_breathing infinite 1
-effect give @a[scores={effecta=19}] weakness infinite 1
+effect give @a[scores={effecta=1}] absorption infinite 0 true
+effect give @a[scores={effecta=2}] conduit_power infinite 0 true
+effect give @a[scores={effecta=3}] dolphins_grace infinite 0 true
+effect give @a[scores={effecta=4}] fire_resistance infinite 0 true
+effect give @a[scores={effecta=5}] haste infinite 0 true
+effect give @a[scores={effecta=6}] health_boost infinite 0 true
+effect give @a[scores={effecta=7}] hero_of_the_village infinite 0 true
+effect give @a[scores={effecta=8}] hunger infinite 0 true
+effect give @a[scores={effecta=9}] invisibility infinite 0 true
+effect give @a[scores={effecta=10}] jump_boost infinite 1 true
+effect give @a[scores={effecta=11}] mining_fatigue infinite 0 true
+effect give @a[scores={effecta=12}] night_vision infinite 0 true
+effect give @a[scores={effecta=13}] resistance infinite 0 true
+effect give @a[scores={effecta=14}] slow_falling infinite 0 true
+effect give @a[scores={effecta=15}] slowness infinite 0 true
+effect give @a[scores={effecta=16}] speed infinite 1 true
+effect give @a[scores={effecta=17}] strength infinite 0 true
+effect give @a[scores={effecta=18}] water_breathing infinite 0 true
+effect give @a[scores={effecta=19}] weakness infinite 0 true
