@@ -46,7 +46,7 @@ Effectify contains many functions for datapack usage. The following documentatio
 These commands set/reset player effects to random ones.<br>
 To use these commands, simply run:<br>
 ```/execute as <player> run function </function e:players/applya|/function e:players/applyb>```,<br>
-replacing ```<player >``` with the player's username and choosing effect slot A or B.<br>
+replacing ```<player>``` with the player's username and choosing effect slot A or B.<br>
 Players can have a maximum of two effects at one time, one in slot A, the other in slot B.<br>
 Example:
 ```
