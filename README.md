@@ -41,7 +41,7 @@ Once finished, add the datapack to the datapacks folder of your Minecraft world.
 ## Commands
 Effectify contains many functions for datapack usage. The only ones to know about are:<br>
 ```/function e:players/applya```<br>
-```/function e:players/applyb```
+```/function e:players/applyb```<br>
 These commands set/reset player effects to random ones.<br>
 To use these commands, simply run:<br>
 ```/execute as <player> run function </function e:players/applya|/function e:players/applyb>```,<br>
