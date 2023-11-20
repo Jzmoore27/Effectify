@@ -39,7 +39,7 @@ Run the Executable located in the root folder to apply your changes.
 Once finished, add the datapack to the datapacks folder of your Minecraft world.
 
 ## Commands
-Effectify contains many functions for datapack usage. The following documentation will tell you how to use them<br>
+Effectify contains many functions for datapack usage. The following documentation will tell you how to use them.<br>
 ### Apply Commands
 ```/function e:players/applya```<br>
 ```/function e:players/applyb```<br>
@@ -57,7 +57,7 @@ Example:
 This command will clear a player's effects for five minutes.<br>
 To run this command, type<br>
 ```/execute as <player> run function </function e:players/applya|/function e:players/applyb>```,<br>
-replacing ```<player>``` with the player's username.```<br>
+replacing ```<player>``` with the player's username.<br>
 Example:
 ```
 /execute as SteveMinecraft100 run function e:players/pause
